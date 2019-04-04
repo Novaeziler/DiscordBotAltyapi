@@ -1,1 +1,5 @@
-RAKSİX
+// MAKE BY RAKSİX
+
+ayarlar.json dosyasını düzenleyin bitti bu kadar.
+
+// MAKE BY RAKSİX
